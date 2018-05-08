@@ -64,7 +64,7 @@ END RequestId: 8e567605-52fb-11e8-ab75-d5a9cad8bc6f
 REPORT RequestId: 8e567605-52fb-11e8-ab75-d5a9cad8bc6f  Duration: 148.14 ms     Billed Duration: 200 ms         Memory Size: 128 MB  Max Memory Used: 20 MB
 ```
 
-Full disclosure: The cold start duration above is a best of four. 🤔
+Full disclosure: The cold start duration above is a best of four. 🙈
 
 ## Thanks
 
